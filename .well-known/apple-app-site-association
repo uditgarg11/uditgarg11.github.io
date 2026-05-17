@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["UDITGARG.com.uditgarg.TeslaAI"],
+        "components": [
+          {
+            "/": "/callback"
+          }
+        ]
+      }
+    ]
+  }
+}
